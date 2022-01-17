@@ -1,3 +1,3 @@
-const name = "Vasif"
-console.log("Salam " + name + "hsadhhashd")
-console.log(`   ${name}           sahfasfashfuhasugh`)
+console.log(Math.round(1.98))
+// Math.round()
+
